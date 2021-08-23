@@ -1,0 +1,17 @@
+{
+  "name": "cuny-family",
+  "scripts": {
+    "start": "imba -w server.imba",
+    "build": "imba build server.imba"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "imba": "^2.0.0-alpha.165"
+  },
+  "repository": "peterclark/cuny-family",
+  "description": "Cuny family reunion website",
+  "version": "1.0.0",
+  "homepage": "https://github.com/peterclark/cuny-family",
+  "author": "Author Name (https://github.com/peterclark)",
+  "license": "ISC"
+}
